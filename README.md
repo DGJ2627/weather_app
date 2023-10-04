@@ -3,21 +3,15 @@
 A new Flutter project.
 
 
-![Screenshot 2023-10-03 145329](https://github.com/DGJ2627/weather_new_app/assets/114165275/de3c0afc-9115-4854-95e2-3420a1df6731)
 
-
-
-
-
-![Screenshot 2023-10-03 150057](https://github.com/DGJ2627/weather_new_app/assets/114165275/53dddd94-bafe-4f86-9135-d3b675437e2f)
-
-
+![1](https://github.com/DGJ2627/weather_new_app/assets/114165275/182d69bc-32b5-4dae-963d-07288c42f67e)
 
 
 
 
 
 ![Screenshot 2023-10-03 150109](https://github.com/DGJ2627/weather_new_app/assets/114165275/5b2afc84-1b01-4b5a-9085-5c1a96853669)
+
 
 
 
